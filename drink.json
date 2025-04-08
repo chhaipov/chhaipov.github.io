@@ -1,0 +1,597 @@
+[
+  {
+    "name": "XL Caramel Milk Tea",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/VWOUux_351_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "XL Brown Sugar Milk Tea",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/35VosJ_355_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "XL Lychee Oolong",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/HAdx5E_357_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "XL Mango Milk Slush",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/B2zyJg_358_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "XL Passionfruit Green Tea",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/nDKdIB_359_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "XL Peach Green Tea",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/b0OHFw_360_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "XL Pearl Milk Tea",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/De8x3S_356_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "XL Strawberry Green Tea",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/eXnwwW_361_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "XL Strawberry Milk Tea",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/RIlgWs_362_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "XL Taro",
+    "category": "GO XL",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/0B7Gpz_363_image/png",
+    "price_m": 2.0,
+    "price_l": 2.0
+  },
+  {
+    "name": "Black Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/Vw0hSk_285_image/png",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Brown Sugar Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661880055608947629630e46f7f18cf.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Caramel Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346500081984468996616ec79841c0e.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Earl Grey Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/uTW6DF_23_image/png",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Earl Grey Milk Tea 3Js",
+    "category": "Milk Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346497381738668692616ec68b006a8.jpg",
+    "price_m": 6.0,
+    "price_l": 6.75
+  },
+  {
+    "name": "Green Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/oXQPiy_289_image/png",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Mango Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/WIsNEP_182_image/png",
+    "price_m": 5.25,
+    "price_l": 6.0
+  },
+  {
+    "name": "Oolong Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/7pIsEs_291_image/png",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Pearl Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16344044101333842183616b083aa4324.jpg",
+    "price_m": 5.25,
+    "price_l": 6.0
+  },
+  {
+    "name": "Strawberry Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/101_image/png",
+    "price_m": 5.25,
+    "price_l": 6.0
+  },
+  {
+    "name": "Wintermelon Milk Tea",
+    "category": "Milk Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661880264208491395630e47c8d9fc2.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Caramel Chocolate",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16466870488176281186226734808608.jpg",
+    "price_m": 4.75,
+    "price_l": 5.5
+  },
+  {
+    "name": "Chocolate Drink",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346472601136850750616ebcdc6c6f2.jpg",
+    "price_m": 4.0,
+    "price_l": 4.75
+  },
+  {
+    "name": "Double Coconut",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/162282906833199168160ba680c85e98.jpg",
+    "price_m": 6.0,
+    "price_l": 6.75
+  },
+  {
+    "name": "Grapefruit Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618738791714600445630e2ed7755cf.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Grapefruit Yogurt Drink",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661874026104106175630e2f6a419b8.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Hibiscus Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618740611426725318630e2f8deaf70.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Honey Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661874118327247502630e2fc686214.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Honey Lemon Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16461669991753895621e83d799c37.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Lemon Ai-Yu White Pearls",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1634647145503923113616ebc69acd39.jpg",
+    "price_m": 0.0,
+    "price_l": 0.0
+  },
+  {
+    "name": "Lemon Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661874203909010430630e301b9f5f3.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Lemon Wintermelon Basil Seeds",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618743071627437297630e308325087.jpg",
+    "price_m": 5.75,
+    "price_l": 6.5
+  },
+  {
+    "name": "Lemon Yogurt Drink",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661874459790440366630e311bbfaf3.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Lychee Oolong",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618745432000514366630e316f66c2a.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Mango Coconut Drink",
+    "category": "Creative Mix",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/VZJxVa_184_image/png",
+    "price_m": 6.0,
+    "price_l": 6.75
+  },
+  {
+    "name": "Mango Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618747921371035471630e3268b0c58.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Mango Yogurt Drink",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661874905749321880630e32d999800.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Passionfruit Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661875028875673928630e3354bd322.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Passionfruit Yogurt Drink",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661875784874837497630e364893541.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Peach Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618751001064273550630e339c0b06f.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Peach Yogurt Drink",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661875881357244500630e36a9f0dae.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Strawberry Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/164288588811778015961ec730017a5e.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Strawberry Lemonade",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/160151605215537536125f7532140f5fa.jpg",
+    "price_m": 4.75,
+    "price_l": 5.5
+  },
+  {
+    "name": "Strawberry Yogurt Drink",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618753441516276971630e34900510b.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Taro",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346473241710463947616ebd1c5fd34.jpg",
+    "price_m": 5.25,
+    "price_l": 6.0
+  },
+  {
+    "name": "Yogurt Green Tea",
+    "category": "Creative Mix",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/160147653713860677215f7497b9a9776.jpg",
+    "price_m": 5.0,
+    "price_l": 5.75
+  },
+  {
+    "name": "Milk Foam Black Tea",
+    "category": "Milk Foam",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346493461524727828616ec5028ccbf.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Milk Foam Dirty Brown Sugar Milk Tea",
+    "category": "Milk Foam",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16581650705088498962d5974e1c9fd.jpg",
+    "price_m": 6.0,
+    "price_l": 6.75
+  },
+  {
+    "name": "Milk Foam Earl Grey Tea",
+    "category": "Milk Foam",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618771101426925208630e3b765fa17.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Milk Foam Green Tea",
+    "category": "Milk Foam",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1634649571175272301616ec5e324cbf.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Milk Foam Oolong Tea",
+    "category": "Milk Foam",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618799331634985760630e467dd30d4.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Milk Foam Wintermelon",
+    "category": "Milk Foam",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1646257937754043209621fe71123a76.jpg",
+    "price_m": 4.25,
+    "price_l": 5.0
+  },
+  {
+    "name": "Creme Brulee Brown Sugar Milk Tea",
+    "category": "Milk Foam",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618769262089674322630e3abeeb6d4.jpg",
+    "price_m": 6.75,
+    "price_l": 7.5
+  },
+  {
+    "name": "Creme Brulee Strawberry Latte",
+    "category": "Milk Foam",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618769681749844924630e3ae8ded0f.jpg",
+    "price_m": 6.75,
+    "price_l": 7.5
+  },
+  {
+    "name": "Caramel Chocolate Slush",
+    "category": "Slush",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346506111676993260616ec9f3334c4.jpg",
+    "price_m": 5.5,
+    "price_l": 6.25
+  },
+  {
+    "name": "Lychee Slush",
+    "category": "Slush",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16619627251743967818630f89e5652bb.jpg",
+    "price_m": 5.5,
+    "price_l": 6.25
+  },
+  {
+    "name": "Mango Milk Slush",
+    "category": "Slush",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661880447855093130630e487fd818b.jpg",
+    "price_m": 5.5,
+    "price_l": 6.25
+  },
+  {
+    "name": "Matcha Milk Slush",
+    "category": "Slush",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1634650734521154326616eca6e14cfa.jpg",
+    "price_m": 5.5,
+    "price_l": 6.25
+  },
+  {
+    "name": "Milk Foam Peach Slush Star Jelly",
+    "category": "Slush",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/164668779976425274562267637af9a7.jpg",
+    "price_m": 7.5,
+    "price_l": 8.25
+  },
+  {
+    "name": "Passionfruit Yogurt Slush",
+    "category": "Slush",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346506811344534689616eca39174bf.jpg",
+    "price_m": 0.0,
+    "price_l": 0.0
+  },
+  {
+    "name": "Peach Slush",
+    "category": "Slush",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661880500566189672630e48b4bc328.jpg",
+    "price_m": 5.5,
+    "price_l": 6.25
+  },
+  {
+    "name": "Strawberry Milk Slush",
+    "category": "Slush",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661962808397690765630f8a38d2893.jpg",
+    "price_m": 5.5,
+    "price_l": 6.25
+  },
+  {
+    "name": "Taro Milk Slush",
+    "category": "Slush",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1661962856695331641630f8a68aad9c.jpg",
+    "price_m": 5.5,
+    "price_l": 6.25
+  },
+  {
+    "name": "Black Tea Latte",
+    "category": "Tea Latte",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/aysHFo_292_image/png",
+    "price_m": 5.25,
+    "price_l": 6.0
+  },
+  {
+    "name": "Earl Grey Tea Latte",
+    "category": "Tea Latte",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/hBbkI3_295_image/png",
+    "price_m": 5.25,
+    "price_l": 6.0
+  },
+  {
+    "name": "Fresh Milk with Herbal Jelly",
+    "category": "Tea Latte",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346508491216605603616ecae10e426.jpg",
+    "price_m": 4.75,
+    "price_l": 5.5
+  },
+  {
+    "name": "Green Tea Latte",
+    "category": "Tea Latte",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/TaCDPi_293_image/png",
+    "price_m": 5.25,
+    "price_l": 6.0
+  },
+  {
+    "name": "Matcha Tea Latte",
+    "category": "Tea Latte",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1646687355479949096226747bf0178.jpg",
+    "price_m": 4.75,
+    "price_l": 5.5
+  },
+  {
+    "name": "Oolong Tea Latte",
+    "category": "Tea Latte",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/P8P0Q7_294_image/png",
+    "price_m": 5.25,
+    "price_l": 6.0
+  },
+  {
+    "name": "Strawberry Matcha Latte",
+    "category": "Tea Latte",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/164668751010762140796226751674ade.jpg",
+    "price_m": 5.5,
+    "price_l": 6.25
+  },
+  {
+    "name": "Thai Tea Latte",
+    "category": "Tea Latte",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1634650928313105972616ecb304ccbe.jpg",
+    "price_m": 6.25,
+    "price_l": 7.0
+  },
+  {
+    "name": "Wintermelon Latte",
+    "category": "Tea Latte",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/160151706612619050835f75360a1cf64.jpg",
+    "price_m": 4.75,
+    "price_l": 5.5
+  },
+  {
+    "name": "Black Tea",
+    "category": "Brewed Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16344036541583579741616b05461df51.jpg",
+    "price_m": 3.75,
+    "price_l": 4.5
+  },
+  {
+    "name": "Earl Grey Tea",
+    "category": "Brewed Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1634304952174622508616983b8b118d.jpg",
+    "price_m": 3.75,
+    "price_l": 4.5
+  },
+  {
+    "name": "Green Tea",
+    "category": "Brewed Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346467342097636430616ebace88a55.jpg",
+    "price_m": 3.75,
+    "price_l": 4.5
+  },
+  {
+    "name": "Oolong Tea",
+    "category": "Brewed Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1634646778516089068616ebafa1983e.jpg",
+    "price_m": 3.75,
+    "price_l": 4.5
+  },
+  {
+    "name": "Wintermelon",
+    "category": "Brewed Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16346468321981605873616ebb301a8fc.jpg",
+    "price_m": 4.0,
+    "price_l": 4.75
+  },
+  {
+    "name": "Wintermelon Oolong",
+    "category": "Brewed Tea",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/16618723771804948260630e28f9df42f.jpg",
+    "price_m": 4.0,
+    "price_l": 4.75
+  },
+  {
+    "name": "Coffee Milk Tea",
+    "category": "Coffee",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1634646903354312396616ebb778aa97.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Milk Coffee",
+    "category": "Coffee",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1634647010385338569616ebbe22a4e8.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Milk Foam Black Coffee",
+    "category": "Coffee",
+    "image": "https://gongchausa.s3.us-east-2.amazonaws.com/menu_pic/1634403902532359797616b063e2db3e.jpg",
+    "price_m": 4.5,
+    "price_l": 5.25
+  },
+  {
+    "name": "Vietnamese Coffee",
+    "category": "Coffee",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/1688tv_347_image/jpeg",
+    "price_m": 5.5,
+    "price_l": 6.25
+  },
+  {
+    "name": "Matcha Milk Foam Green Tea",
+    "category": "Seasonal",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/M90NL1_412_image/png",
+    "price_m": 5.25,
+    "price_l": 6.0
+  },
+  {
+    "name": "Strawberry Cheesecake Milk Tea",
+    "category": "Seasonal",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/pBVAzR_404_image/png",
+    "price_m": 7.0,
+    "price_l": 7.75
+  },
+  {
+    "name": "Strawberry Cheesecake Smoothie",
+    "category": "Seasonal",
+    "image": "https://gongchadev3.s3.us-east-2.amazonaws.com/gPCA7F_405_image/png",
+    "price_m": 7.25,
+    "price_l": 8.0
+  }
+]

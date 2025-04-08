@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gong Cha Menu</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              gongcha: {
+                red: '#B10023',
+              },
+            },
+          },
+        },
+      };
+    </script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-100">
+    <header
+      id="top-header"
+      class="bg-white dark:bg-gray-900 shadow px-4 py-4 flex justify-between items-center md:px-8"
+    >
+      <h1 class="text-3xl font-extrabold text-gongcha-red dark:text-red-300">Gong Cha</h1>
+      <button
+        id="themeToggle"
+        class="text-gray-800 dark:text-red-300 hover:text-gongcha-red dark:hover:text-red-400 transition"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          id="themeIcon"
+          class="h-6 w-6"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M12 3v1m0 16v1m8.66-10H21m-18 0H3m15.36 6.36l-.71-.71m-12.02 0l-.71.71m12.02-12.02l-.71.71m-12.02 0l-.71-.71M12 5a7 7 0 100 14 7 7 0 000-14z"
+          />
+        </svg>
+      </button>
+    </header>
+
+
+    <div id="splash-screen" class="fixed inset-0 z-50 flex items-center justify-center bg-white dark:bg-gray-900">
+  <div class="text-center">
+    <div class="w-12 h-12 border-4 border-gongcha-red border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+    <p class="text-gongcha-red dark:text-red-300 text-lg font-semibold">Loading Menu...</p>
+  </div>
+</div>
+
+    <!-- Categories -->
+    <div
+      id="category-bar"
+      class="sticky top-0 z-10 bg-white dark:bg-gray-900 px-4 py-2 overflow-x-auto whitespace-nowrap border-b border-gray-200 dark:border-gray-700"
+    >
+      <div id="category-list" class="flex gap-3"></div>
+    </div>
+
+    <main class="px-4 pb-10 md:px-8"></main>
+
+    <!-- Scroll & Customize Buttons -->
+    <div class="fixed bottom-5 right-5 z-50 flex flex-col items-end gap-2">
+      <button
+        onclick="document.getElementById('top-header').scrollIntoView({ behavior: 'smooth' })"
+        class="bg-gongcha-red text-white rounded-full p-3 shadow-lg hover:bg-gongcha-red/90 transition"
+        title="Back to top"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-6 w-6"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M5 15l7-7 7 7"
+          />
+        </svg>
+      </button>
+      <button
+        onclick="document.getElementById('optionsModal').classList.remove('hidden')"
+        class="bg-gray-800 text-white dark:bg-gray-100 dark:text-gray-900 rounded-full p-3 shadow-lg hover:opacity-90 transition"
+        title="Customize Drink"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-6 w-6"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M16 12H8m0 0h8m-8 0V8m0 4v4"
+          />
+        </svg>
+      </button>
+    </div>
+
+    <!-- Drink Options Modal -->
+    <div
+      id="optionsModal"
+      class="hidden fixed inset-0 z-50 bg-black bg-opacity-40 flex items-center justify-center"
+      onclick="this.classList.add('hidden')"
+    >
+      <div
+        class="bg-white dark:bg-gray-800 rounded-2xl p-6 w-full max-w-md shadow-xl relative"
+        onclick="event.stopPropagation()"
+      >
+        <button
+          onclick="document.getElementById('optionsModal').classList.add('hidden')"
+          class="absolute top-3 right-3 text-gray-600 dark:text-gray-300 hover:text-gongcha-red"
+        >✕</button>
+        <h3 class="text-xl font-bold text-gongcha-red dark:text-white mb-4">Customize Drink</h3>
+        <div class="space-y-6">
+          <div>
+            <label class="block font-medium mb-1">Sugar Level</label>
+            <input
+              type="range"
+              min="0"
+              max="4"
+              value="2"
+              step="1"
+              class="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer dark:bg-gray-700"
+            />
+            <div class="flex justify-between text-xs text-gray-600 dark:text-gray-300 mt-1">
+              <span>0%</span><span>30%</span><span>50%</span><span>70%</span><span>100%</span>
+            </div>
+          </div>
+
+          <div>
+            <label class="block font-medium mb-1">Ice Level</label>
+            <div class="flex gap-2 text-sm">
+              <label class="cursor-pointer px-3 py-1 rounded-full border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <input type="radio" name="ice-level" value="zero" class="hidden" /> Zero
+              </label>
+              <label class="cursor-pointer px-3 py-1 rounded-full border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <input type="radio" name="ice-level" value="less" class="hidden" /> Less
+              </label>
+              <label class="cursor-pointer px-3 py-1 rounded-full border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <input type="radio" name="ice-level" value="regular" class="hidden" /> Regular
+              </label>
+            </div>
+          </div>
+
+          <div>
+            <label class="block font-medium mb-2">Toppings</label>
+            <div class="grid grid-cols-2 gap-3">
+              <label class="flex items-center space-x-3 cursor-pointer bg-gray-100 dark:bg-gray-700 rounded-lg p-2 hover:bg-gray-200 dark:hover:bg-gray-600">
+                <input type="checkbox" class="hidden peer" />
+                <img src="https://gong-cha-usa.com/wp-content/uploads/topping-Original-Milk-Foam.png" alt="Topping" class="w-10 h-10 object-contain rounded shadow" />
+                <span class="text-sm text-gray-800 dark:text-gray-100">Milk Foam</span>
+              </label>
+            </div>
+          </div>
+
+          <button class="w-full bg-gongcha-red text-white py-2 rounded-xl hover:bg-gongcha-red/90 transition">Add to Cart</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
